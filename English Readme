@@ -1,5 +1,5 @@
 Louvain Method for Community Detection and Verification Methods (C Programming Language)
-
+Commited on GitHub on 17/10/2017
 
 The listed code (Louvain_code) implements the grouping of components that compose networks and, therefore, graphs using Louvain Method.
 The Louvain method processes graphs, ie files containing nodes, edges, and a degree of similarity in weight
@@ -42,10 +42,10 @@ This code was part of the Bachelor Thesis of Bellias Spyros,
 a student in the Department of Production Engineering and Management of the Democritus University of Thrace and is titled:
 
 Identifying sequences of images using graph-based clustering techniques for loop closure detection
-
+(September 2017)
 
 Copyright © Bellias Spyridon, 2017.
-All Rights Reserved. All rights reserved.
+All Rights Reserved. .
 It is prohibited to copy, store and distribute this publication, 
 all or part of it for commercial purposes. Reprint,
 storage and distribution for non-profit, educational or research purposes
