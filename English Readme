@@ -1,6 +1,7 @@
 Louvain Mehtod for Community Detection and Verification Methods
 
-The listed code (Louvain_code) implements the grouping of components that compose networks and, therefore, graphs using Louvain Method 
+The listed code (Louvain_code) implements the grouping of components that compose networks and, therefore, graphs using Louvain Method.
+The Louvain method processes graphs, ie files containing nodes, edges, and a degree of similarity in weight
 
 For information about the Louvain Method for Community Detection, please consult the following sources:
 https://arxiv.org/pdf/0803.0476.pdf
