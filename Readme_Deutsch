@@ -1,0 +1,55 @@
+Louvain Mehtod für die Erkennung und Überprüfung von Communitys
+
+Der aufgelistete Code (Louvain_code) implementiert die Gruppierung von Komponenten, die Netzwerke bilden, und daher Graphen mit der Louvain-Methode
+
+Informationen über die Louvain-Methode für den Community-Nachweis finden Sie in folgenden Quellen:
+https://arxiv.org/pdf/0803.0476.pdf
+https://perso.uclouvain.be/vincent.blondel/research/louvain.html
+https://www.quora.com/Is-das-einfache-Erläuterung-der-Louvain-Methode-der-gemeinschaftserfassung
+
+Die Datei Evaluators_Code enthält den Code, mit dem die erfolgreiche Gruppierung ausgewertet werden kann.
+Es kann auch verwendet werden, um allgemeine Sequenzen zu finden, die sich aus einer Clustering-Methode ergeben.
+Der Code implementiert und verwendet die folgenden externen Bewertungsmethoden
+Rand Index
+Jaccard Index
+
+Die Basis der Verifizierung sind die Daten der Gruppierung. Jeder Benutzer kann den Code entsprechend ändern
+seine oder ihre Elemente mit einer Grundwahrheit zu vergleichen. Außerdem ist es möglich, die Elemente oder Sequenzen miteinander zu vergleichen
+(wenn keine Bodenwahrheit verfügbar ist).
+
+Achtung: Der Jaccard-Index ist ein absolut zuverlässiger Index, indem die mathematischen Attribute für Kreuzung und Vereinigung verwendet werden.
+Rand-Index kann falsche Zahlen geben, wenn die verglichenen Ergebnisse und Gruppen nicht die gleiche Größe haben und nicht
+ ausgerichtet sind.
+
+Weitere Informationen zu Gruppierungsmethoden finden Sie in folgenden Quellen:
+Für den Rand Index
+https://pdfs.semanticscholar.org/9549/37ece00fd465f6a639fa739a04af8d5d7efb.pdf
+https://en.wikipedia.org/wiki/Rand_index
+https://www.youtube.com/watch?v=6rjTIwn0yWI (change B, D)
+https://stats.stackexchange.com/questions/89030/rand-index-calculation
+
+Für den Jaccard-Index:
+https://www.researchgate.net/publication/230302439_The_Distribution_of_Flora_in_the_Alpine_Zone
+https://en.wikipedia.org/wiki/Jaccard_index
+http://www.statisticshowto.com/jaccard-index/
+
+
+
+Dieser Code war Teil der Bachelor-Arbeit von Bellias Spyros,
+ Student in der Abteilung für Produktionstechnik und Management der Demokrit Universität von Thrakien und betitelt:
+
+Identifizieren von Sequenzen von Bildern unter Verwendung von grafikbasierten Clustering-Techniken zur Erkennung von Schleifenverschlüssen
+
+
+Copyright © Bellias Spyridon, 2017.
+Alle Rechte vorbehalten. Alle Rechte vorbehalten.
+Es ist verboten, diese Publikation zu kopieren, zu speichern und zu verbreiten,
+ganz oder teilweise für kommerzielle Zwecke. Abdruck,
+Lagerung und Vertrieb für gemeinnützige, Bildungs- oder Forschungszwecke
+Natur, sofern die Herkunftsquelle angegeben und erhalten bleibt
+aktuelle Nachricht. Fragen zur Verwendung von Arbeit für Profit
+sollte an den Autor gerichtet werden.
+Genehmigung der Aufbaustudienarbeiten durch das Department of Production and Management Engineering
+der Demokrit-Universität von Thrakien
+bedeutet nicht unbedingt Akzeptanz
+der Ansichten des Autors im Namen der Abteilung.
