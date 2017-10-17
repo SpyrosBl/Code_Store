@@ -1,4 +1,4 @@
-Louvain Mehtod für die Erkennung und Überprüfung von Communitys
+Louvain Mehtod für die Erkennung und Überprüfung von Communitys (C progamming Language)
 
 Der aufgelistete Code (Louvain_code) implementiert die Gruppierung von Komponenten, die Netzwerke bilden, und daher Graphen mit der Louvain-Methode
 
@@ -33,7 +33,9 @@ https://www.researchgate.net/publication/230302439_The_Distribution_of_Flora_in_
 https://en.wikipedia.org/wiki/Jaccard_index
 http://www.statisticshowto.com/jaccard-index/
 
-
+Die Linux-Umgebung und das Programm Netbeans.IDE werden für eine effektive Verwendung des Codes empfohlen. Für Louvain sind Plugins Plugins
+siehe:
+http://igraph.org/c/
 
 Dieser Code war Teil der Bachelor-Arbeit von Bellias Spyros,
  Student in der Abteilung für Produktionstechnik und Management der Demokrit Universität von Thrakien und betitelt:
