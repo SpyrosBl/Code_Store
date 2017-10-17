@@ -1,0 +1,55 @@
+Louvain Mehtod for Community Detection and Verification Methods
+
+The listed code (Louvain_code) implements the grouping of components that compose networks and, therefore, graphs using Louvain Method 
+
+For information about the Louvain Method for Community Detection, please consult the following sources:
+https://arxiv.org/pdf/0803.0476.pdf
+https://perso.uclouvain.be/vincent.blondel/research/louvain.html
+https://www.quora.com/Is-there-a-simple-explanation-of-the-Louvain-Method-of-community-detection
+
+The Evaluators_Code file contains the code that can be used to evaluate successful grouping.
+It can also be used to find common sequences that result from a clustering method.
+The code implements and uses the following external evaluation methods
+Rand Index
+Jaccard Index
+
+The basis of the verification is the data of the grouping. Each user can modify the code appropriately
+to compare his or her elements with a ground truth. Moreover compairing the elements or sequences to each other is possible 
+( when no ground truth is available).
+
+Caution: The Jaccard Index is a totally reliable index, by using the intersection and union  mathematical attributes.
+Rand Index may give wrong figures if the results and groups compared are not the same size, not
+are aligned and repetitive.
+
+For further information regarding grouping methods, please consult the following sources:
+For the Rand Index
+https://pdfs.semanticscholar.org/9549/37ece00fd465f6a639fa739a04af8d5d7efb.pdf
+https://en.wikipedia.org/wiki/Rand_index
+https://www.youtube.com/watch?v=6rjTIwn0yWI (change B, D)
+https://stats.stackexchange.com/questions/89030/rand-index-calculation
+
+For the Jaccard Index:
+https://www.researchgate.net/publication/230302439_The_Distribution_of_Flora_in_the_Alpine_Zone
+https://en.wikipedia.org/wiki/Jaccard_index
+http://www.statisticshowto.com/jaccard-index/
+
+
+
+This code was part of the Bachelor Thesis of Bellias Spyros,
+a student in the Department of Production Engineering and Management of the Democritus University of Thrace and is titled:
+
+Identifying sequences of images using graph-based clustering techniques for loop closure detection
+
+
+Copyright © Bellias Spyridon, 2017.
+All Rights Reserved. All rights reserved.
+It is prohibited to copy, store and distribute this publication, 
+all or part of it for commercial purposes. Reprint,
+storage and distribution for non-profit, educational or research purposes
+nature, provided that the source of origin is indicated and maintained
+present message. Questions concerning the use of work for profit
+should be addressed to the author.
+Approval of postgraduate work by the Department of Production and Management Engineering
+of the Democritus University of Thrace
+does not necessarily imply acceptance
+of the views of the author on behalf of the Department.
