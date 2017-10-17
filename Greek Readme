@@ -1,4 +1,4 @@
-Μέθοδος εύρεσης κοινοτήτων Louvain και επαλήθευση
+Μέθοδος εύρεσης κοινοτήτων Louvain και επαλήθευση (C Programming Language)
 
 Στα αρχεία που παρατίθενται υλοποιείται ο κώδικας ομαδοποιήσεων στοιχείων που συνθέτουν δίκτυα και κατ επέκταση γράφους (αρχείο Louvain_code)
 Η μέθοδος του Louvain επεξεργάζεται γράφους δηλαδή αρχεία που περιέχουν nodes,edges και βαθμό ομοιότητας weight
@@ -35,6 +35,9 @@ https://www.researchgate.net/publication/230302439_The_Distribution_of_Flora_in_
 https://en.wikipedia.org/wiki/Jaccard_index
 http://www.statisticshowto.com/jaccard-index/
 
+Για την αποτελεσματική χρήση του κώδικα προτείνεται το περιβάλλον Linux και το πρόγραμμα Netbeans.IDE. Για το Louvain απατώνται plugins
+βλέπε:
+http://igraph.org/c/
 
 
 Ο κώδικας αυτός αποτέλεσε κομμάτι της διπλωματικής εργασίας τoυ Μπέλλια Σπύρου,
