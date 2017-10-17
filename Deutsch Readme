@@ -1,4 +1,5 @@
 Louvain Mehtod für die Erkennung und Überprüfung von Communitys (C progamming Language)
+Festgelegt am 17/10/2017
 
 Der aufgelistete Code (Louvain_code) implementiert die Gruppierung von Komponenten, die Netzwerke bilden, und daher Graphen mit der Louvain-Methode
 
@@ -41,10 +42,10 @@ Dieser Code war Teil der Bachelor-Arbeit von Bellias Spyros,
  Student in der Abteilung für Produktionstechnik und Management der Demokrit Universität von Thrakien und betitelt:
 
 Identifizieren von Sequenzen von Bildern unter Verwendung von grafikbasierten Clustering-Techniken zur Erkennung von Schleifenverschlüssen
-
+(September 2017)
 
 Copyright © Bellias Spyridon, 2017.
-Alle Rechte vorbehalten. Alle Rechte vorbehalten.
+Alle Rechte vorbehalten.
 Es ist verboten, diese Publikation zu kopieren, zu speichern und zu verbreiten,
 ganz oder teilweise für kommerzielle Zwecke. Abdruck,
 Lagerung und Vertrieb für gemeinnützige, Bildungs- oder Forschungszwecke
