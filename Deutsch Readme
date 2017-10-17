@@ -1,5 +1,5 @@
 Louvain Mehtod für die Erkennung und Überprüfung von Communitys (C progamming Language)
-Festgelegt am 17/10/2017
+Festgelegt in GitHub am 17/10/2017
 
 Der aufgelistete Code (Louvain_code) implementiert die Gruppierung von Komponenten, die Netzwerke bilden, und daher Graphen mit der Louvain-Methode
 
